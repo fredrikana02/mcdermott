@@ -1,0 +1,1 @@
+let Source = Sql.Database("prod-db.company.internal","SalesDB",[Username="admin",Password="SuperSecret123!"]) in Source
