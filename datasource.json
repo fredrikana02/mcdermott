@@ -1,0 +1,1 @@
+{"server":"prod-db.company.internal","database":"SalesDB","authentication":{"type":"Basic","username":"admin","password":"SuperSecret123!"}}

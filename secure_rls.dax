@@ -1,0 +1,1 @@
+VAR userDept = LOOKUPVALUE(UserAccess[Department],UserAccess[Email],USERPRINCIPALNAME()) RETURN NOT ISBLANK(userDept) && [Department] = userDept

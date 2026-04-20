@@ -1,0 +1,1 @@
+app.get('/getReport',(req,res)=>{res.json({accessToken:"HARDCODED-TOKEN-ABC123"});});
